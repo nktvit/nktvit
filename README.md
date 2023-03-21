@@ -1,11 +1,8 @@
-<!-- <img src="https://media.giphy.com/media/3ov9k4ylxDw8hrF0fm/giphy.gif" style="width: 1200px; height: 480px; display: block;" alt="Did Goethe show us the true theory of colours?" align="right"/> -->
 ![](./images/mushishi.gif) 
 <h1 align="center" style="margin-top: 30px;">Hi 👋, I am Nikita Vitkovsky</h1>
 <h3 align="center">A motivated frontend developer from Ukraine 🇺🇦</h3>
 
-
-
-<!-- <img src="https://media.giphy.com/media/xTiTnrAwCVnGTwWsOA/giphy.gif" style="width: 480px; height: 360px; border: 8px solid white;" alt="Did Goethe show us the true theory of colours?" align="right"/> -->
+<img src="https://media.giphy.com/media/xTiTnrAwCVnGTwWsOA/giphy.gif" style="width: 480px; height: 360px; border: 8px solid white;" alt="Did Goethe show us the true theory of colours?" align="right"/>
 
 - 🔭 I’m currently working on **Synesthesia Music Cube**
 
