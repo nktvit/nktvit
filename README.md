@@ -2,8 +2,6 @@
 <h1 align="center" style="margin-top: 30px;">Hi 👋, I am Nikita Vitkovsky</h1>
 <h3 align="center">A motivated frontend developer from Ukraine 🇺🇦</h3>
 
-<img src="https://media.giphy.com/media/xTiTnrAwCVnGTwWsOA/giphy.gif" style="width: 480px; height: 360px; border: 8px solid white;" alt="Did Goethe show us the true theory of colours?" align="right"/>
-
 - 🔭 I’m currently working on **Synesthesia Music Cube**
 
 - 💬 Ask me anything for my favourite **React ❤️‍🔥**
