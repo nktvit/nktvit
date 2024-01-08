@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 30px;">Hi 👋, I am Nikita Vitkovsky</h1>
 <h3 align="center">A motivated frontend developer from Ukraine 🇺🇦</h3>
 
-- 🔭 I’m currently working on **Blackjack Game**
+- 🔭 I’m currently working on **Web Metronome**
 
 - 💬 Ask me anything for my favourite **React ❤️‍🔥**
 
